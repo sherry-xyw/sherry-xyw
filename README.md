@@ -1,3 +1,3 @@
-👋 Hi, I’m Sherry\n
-👀 I’m interested in remote sensing, MLLM\n
-🌱 I’m currently a PhD student
+- 👋 Hi, I’m Sherry
+- 👀 I’m interested in remote sensing, MLLM
+- 🌱 I’m currently a PhD student
